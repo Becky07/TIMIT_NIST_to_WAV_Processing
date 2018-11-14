@@ -1,6 +1,9 @@
 # TIMIT_NIST_to_WAV_Processing
 Converting NIST files in TIMIT to the WAV format
 
+## Where to buy TIMIT
+[TIMIT data introduction and purchase](https://catalog.ldc.upenn.edu/LDC93S1)
+
 For this converting, you need to have sox (**SO**und e**X**change), a universal sound sample translator.
 
 ## Steps to install sox on Mac OSX
